@@ -326,7 +326,7 @@
     "subType": "Nursing",
     "RelatedAccount": "001Bm00000WH02rIAD"
   },
-  "elapsedTimeActual": 1660,
+  "elapsedTimeActual": 2027,
   "fullDataJson": {
     "Action": "SaveForLater",
     "PersonContactId": "003Bm00000XgZ00IAF",
@@ -469,7 +469,7 @@
           "Pa_ConcernsOnActivity__c": "Yes",
           "CarerwithClient__c": "Yes",
           "Hs_MultipleSclerosis__c": "No",
-          "Related_Assessment__c": "0U39p000000lPpNCAU",
+          "Related_Assessment__c": "0U39p000000lPqzCAE",
           "Pn_PainQuality__c": null,
           "ClientGPReferral__c": "TESTT@##@",
           "DoyouSmoke__c": "Has quit smoking",
@@ -497,9 +497,7 @@
         "UpsertAssessment": {
           "responseType": "",
           "ActualTime": "",
-          "debugLog": [
-            ""
-          ],
+          "debugLog": [],
           "rolledBack": "",
           "error": "",
           "Assessment_1": [
@@ -851,11 +849,9 @@
         "subType": "",
         "RelatedAccount": ""
       },
-      "ActualTime": 1501,
+      "ActualTime": 1803,
       "success": false,
-      "debugLog": [
-        "2026-09-30T16:41:48.080Z: Metadata retrieved from cache."
-      ],
+      "debugLog": [],
       "rolledBack": false,
       "error": "Id in upsert is not valid ",
       "errors": {
@@ -878,10 +874,8 @@
     "RelatedAssessment": "",
     "UpsertAssessment": {
       "responseType": "SObject",
-      "ActualTime": 131,
-      "debugLog": [
-        "2026-09-30T16:41:47.938Z: Metadata retrieved from cache."
-      ],
+      "ActualTime": 198,
+      "debugLog": [],
       "rolledBack": false,
       "error": "OK",
       "Assessment_1": [
@@ -892,7 +886,7 @@
           "Clinical_Form_Child_Obj_Field_API_Name__c": "Account__c",
           "AssessmentStatus": "In Progress",
           "Clinical_Form_Id__c": "a4y9p000001dzz7A",
-          "Id": "0U39p000000lPpNCAU",
+          "Id": "0U39p000000lPqzCAE",
           "UpsertSuccess": true,
           "Name": "Steph Curry_NursingExtract"
         }
@@ -1386,7 +1380,7 @@
         "Pa_ConcernsOnActivity__c": "Yes",
         "CarerwithClient__c": "Yes",
         "Hs_MultipleSclerosis__c": "No",
-        "Related_Assessment__c": "0U39p000000lPpNCAU",
+        "Related_Assessment__c": "0U39p000000lPqzCAE",
         "Pn_PainQuality__c": null,
         "ClientGPReferral__c": "TESTT@##@",
         "DoyouSmoke__c": "Has quit smoking",
@@ -1411,9 +1405,7 @@
       "UpsertAssessment": {
         "responseType": "",
         "ActualTime": "",
-        "debugLog": [
-          ""
-        ],
+        "debugLog": [],
         "rolledBack": "",
         "error": "",
         "Assessment_1": [
@@ -1765,11 +1757,9 @@
       "subType": "",
       "RelatedAccount": ""
     },
-    "ActualTime": 1501,
+    "ActualTime": 1803,
     "success": false,
-    "debugLog": [
-      "2026-09-30T16:41:48.080Z: Metadata retrieved from cache."
-    ],
+    "debugLog": [],
     "rolledBack": false,
     "error": "Id in upsert is not valid ",
     "errors": {
@@ -1783,12 +1773,12 @@
   "Save for laterDebug": {
     "Status": true,
     "Type": "Conditional Block",
-    "ElapsedTime": 1650
+    "ElapsedTime": 2017
   },
   "TryWriteAssessmentDebug": {
     "Status": false,
     "Type": "Try Catch Block",
-    "ElapsedTime": 1650
+    "ElapsedTime": 2017
   },
   "executionSequence": [
     "TryWriteAssessment",
@@ -1800,10 +1790,8 @@
   "Save for later": null,
   "UpsertAssessment": {
     "responseType": "SObject",
-    "ActualTime": 131,
-    "debugLog": [
-      "2026-09-30T16:41:47.938Z: Metadata retrieved from cache."
-    ],
+    "ActualTime": 198,
+    "debugLog": [],
     "rolledBack": false,
     "error": "OK",
     "Assessment_1": [
@@ -1814,7 +1802,7 @@
         "Clinical_Form_Child_Obj_Field_API_Name__c": "Account__c",
         "AssessmentStatus": "In Progress",
         "Clinical_Form_Id__c": "a4y9p000001dzz7A",
-        "Id": "0U39p000000lPpNCAU",
+        "Id": "0U39p000000lPqzCAE",
         "UpsertSuccess": true,
         "Name": "Steph Curry_NursingExtract"
       }
@@ -2169,7 +2157,7 @@
       "RelatedAccount": "001Bm00000WH02rIAD"
     },
     "Type": "DataRaptor Post Action",
-    "ElapsedTime": 133
+    "ElapsedTime": 200
   },
   "response": {
     "result": {
@@ -2197,10 +2185,8 @@
       "RelatedAssessment": "",
       "UpsertAssessment": {
         "responseType": "SObject",
-        "ActualTime": 131,
-        "debugLog": [
-          "2026-09-30T16:41:47.938Z: Metadata retrieved from cache."
-        ],
+        "ActualTime": 198,
+        "debugLog": [],
         "rolledBack": false,
         "error": "OK",
         "Assessment_1": [
@@ -2211,7 +2197,7 @@
             "Clinical_Form_Child_Obj_Field_API_Name__c": "Account__c",
             "AssessmentStatus": "In Progress",
             "Clinical_Form_Id__c": "a4y9p000001dzz7A",
-            "Id": "0U39p000000lPpNCAU",
+            "Id": "0U39p000000lPqzCAE",
             "UpsertSuccess": true,
             "Name": "Steph Curry_NursingExtract"
           }
@@ -2553,7 +2539,7 @@
       "RelatedAccount": "001Bm00000WH02rIAD"
     },
     "Type": "DataRaptor Post Action",
-    "ElapsedTime": 1503
+    "ElapsedTime": 1805
   },
   "PostSaveforLaterActionStatus": false
 }
